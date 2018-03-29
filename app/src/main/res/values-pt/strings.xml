@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="label_altura">Altura</string>
+    <string name="label_id_pokemon">Id do Pokemon</string>
+    <string name="label_pesquisar">Pesquisar</string>
+    <string name="label_peso">Peso</string>
+    <string name="label_order">Ordem</string>
+    <string name="label_nome">Nome</string>
+</resources>

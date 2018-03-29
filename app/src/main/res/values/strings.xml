@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="label_id_pokemon">Pokemon Id</string>
+    <string name="label_pesquisar">Search</string>
+    <string name="label_nome">Name</string>
+    <string name="label_altura">Height</string>
+    <string name="label_peso">Weight</string>
+    <string name="label_order">Order</string>
+</resources>
